@@ -8,3 +8,4 @@ Disallow:
 
 # some line
 #this line has been added to show git pullcommand
+#this line has been added to show git push command
